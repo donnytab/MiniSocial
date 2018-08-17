@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class LoginController {
     @RequestMapping("/")
     public String login() {
-        return "Success!";
+        return "index";
     }
 }

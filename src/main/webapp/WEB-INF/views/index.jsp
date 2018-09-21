@@ -49,7 +49,52 @@
             <p class="text-muted">Wendong Yuan</p>
         </div>
     </section>
-    <section id="projects"></section>
+
+    <section id="projects">
+        <h1 class="font-weight-bold; text-center" style="padding: 100px">PROJECT</h1>
+
+        <div class="container" style="display: flex; flex-wrap: wrap;">
+            <!-- Project 1 -->
+            <div class="col-lg-4 col-sm-6" style="margin-bottom: 30px;">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="../../img/portfolio1.jpg" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Project One</a>
+                        </h4>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project 2 -->
+            <div class="col-lg-4 col-sm-6" style="margin-bottom: 30px;">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="../../img/portfolio2.jpg" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Project Two</a>
+                        </h4>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Project 3 -->
+            <div class="col-lg-4 col-sm-6" style="margin-bottom: 30px;">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="../../img/portfolio3.jpg" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">Project Three</a>
+                        </h4>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section id="blogs"></section>
 
     <!-- Modal 1 -->
